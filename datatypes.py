@@ -1,0 +1,9 @@
+1.interger
+2.float
+3.complex
+4.string
+5.list
+6.tuple
+7.set
+8.dictionary
+9.complex
